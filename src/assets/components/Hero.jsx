@@ -1,13 +1,13 @@
-import profile from "../profile.jpg";
+import Profile from "../Profile.jpg";
 
 function Hero() {
   return (
     <section className="hero">
 
       <img
-        src={profile}
+        src={Profile}
         alt="Profile"
-        className="profile-pic"
+        className="Profile-pic"
       />
 
       <h1>Shafna Shamsuddin</h1>
